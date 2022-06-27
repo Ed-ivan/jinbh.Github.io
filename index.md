@@ -1,20 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Jin-bh/jinbh.Github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-. It includes conventions for
-
+## jupyter notebook 简易介绍以及入门教程
+ [editor on GitHub](https://github.com/Jin-bh/jinbh.Github.io/edit/gh-pages/index.md)
 ```markdown
-Syntax highlighted code block
-
-# Header 1
+# 什么是jupyter notebook ?
 ## Header 2
 ### Header 3
-
 - Bulleted
 - List
 
