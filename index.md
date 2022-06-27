@@ -24,7 +24,16 @@ jupyter notebook是基于网页的用于交互计算的应用程序。可以在�
 
 [Link](url) and ![Image](src)
 ```
-
+## 如何安装jupyter notebook？
+在这我们推荐首先安装anaconda,之后安装jupyter notebook. 在Anaconda prompt中输入一下的命令：
+```markdown
+conda install jupyter notebook 
+```
+安装之后输入
+```markdown
+ jupyter notebook 
+```
+可以打开jupyter notebook
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
