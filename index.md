@@ -10,9 +10,9 @@ jupyter notebook是基于网页的用于交互计算的应用程序。可以在�
 2. 可以通过浏览器运行代码，同时在代码块下方展示运行结果。
 3. 编程具有语法高亮、缩进、tab补全的功能。
 4. 支持LaTeX编写数学性说明
+
 ```markdown
 ## Header 2
-
 ### Header 3
 - Bulleted
 - List
