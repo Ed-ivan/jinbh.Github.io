@@ -2,6 +2,7 @@
  [editor on GitHub](https://github.com/Jin-bh/jinbh.Github.io/edit/gh-pages/index.md)
 ```markdown
 # 什么是jupyter notebook ?
+jupyter notebook是基于网页的用于交互计算的应用程序。可以在网页页面直接编写代码和运行代码，<br>代码运行结果会直接显示在代码块的下方。同时jupyter notebook也支持将代码与文档编写到一个页面中，可以将其看作是一篇“博客”,在该“博客”中可以编写文档，也可以直接编写、运行代码。 
 ## Header 2
 ### Header 3
 - Bulleted
