@@ -41,4 +41,7 @@ conda install jupyter notebook
 点击上方的运行按钮即可运行代码，运行结果保存在代码块的下方。（红线所画位置）
 
  ![图片](https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook3.jpg " jupyter notebook演示")
-可以看到代码块的左侧有"in[]"标识，当代码处于运行状态括号内部会显示为星号。当然了jupyter notebook 还有很多其他的用法，例如上方的新建文件即可完成自己的文件的编写。（可能需要 conda 命令安装相应的包）
+可以看到代码块的左侧有"in[]"标识，当代码处于运行状态括号内部会显示为星号。
+下面提供一个使用jupyter notebook的小demo。例如将下面代码块的import子句注释掉，运行的错误信息将会显示在代码块下方，可以通过提示信息进行debug。
+![图片](https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook4.jpg " jupyter notebook演示")
+当然了jupyter notebook 还有很多其他的用法，例如上方的新建文件即可完成自己的文件的编写。（可能需要 conda 命令安装相应的包）
