@@ -34,12 +34,4 @@ conda install jupyter notebook
 ```markdown
  jupyter notebook 
 ```
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jin-bh/jinbh.Github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+点击上方的运行按钮即可运行代码，运行结果保存在代码块的下方。（红线所画位置）可以看到代码块的左侧有"in[]"标识，当代码处于运行状态括号内部会显示为星号。当然了jupyter notebook 还有很多其他的用法，例如上方的新建文件即可完成自己的文件的编写。（可能需要 conda 命令安装相应的包）
