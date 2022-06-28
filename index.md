@@ -11,23 +11,13 @@ jupyter notebook是基于网页的用于交互计算的应用程序。可以在�
 3. 编程具有语法高亮、缩进、tab补全的功能。
 4. 支持LaTeX编写数学性说明
 
-```markdown
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-<img src="https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg " alt="图片alt" title="图片title">
-
-```
 
 ## 如何安装jupyter notebook？
 在这我们推荐首先安装anaconda,之后安装jupyter notebook. 在Anaconda prompt中输入一下的命令：
 ```markdown
 conda install jupyter notebook 
 ```
+## 如何使用jupyter notebook？
 安装之后输入
 ```markdown
  jupyter notebook 
