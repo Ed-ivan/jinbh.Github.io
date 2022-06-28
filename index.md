@@ -30,7 +30,7 @@ conda install jupyter notebook
 ```markdown
  jupyter notebook 
 ```
-可以打开jupyter notebook
+可以打开jupyter notebook，如下图所示
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
