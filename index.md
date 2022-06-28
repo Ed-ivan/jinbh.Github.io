@@ -19,7 +19,7 @@ jupyter notebook是基于网页的用于交互计算的应用程序。可以在�
 1. Numbered
 2. List
 **Bold** and _Italic_ and `Code` text
- ![https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg](https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg)
+ ![图片](https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg " jupyter notebook演示")
 ```
 ## 如何安装jupyter notebook？
 在这我们推荐首先安装anaconda,之后安装jupyter notebook. 在Anaconda prompt中输入一下的命令：
