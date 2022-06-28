@@ -19,6 +19,7 @@ jupyter notebook是基于网页的用于交互计算的应用程序。可以在�
 1. Numbered
 2. List
 **Bold** and _Italic_ and `Code` text
+<img src="https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg " alt="图片alt" title="图片title">
  ![图片](https://github.com/Jin-bh/jinbh.Github.io/blob/gh-pages/jupyter%20notebook1.jpg " jupyter notebook演示")
 ```
 ## 如何安装jupyter notebook？
